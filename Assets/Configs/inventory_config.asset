@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc448be65f2e4f96b1dc9e2bcaba2ad9, type: 3}
+  m_Name: inventory_config
+  m_EditorClassIdentifier: 
+  _inventory:
+  - <Type>k__BackingField: 1
+    <Amount>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 6517427647885838366, guid: 04ce873c9dff75a4c80c4dc5ad056e87, type: 3}
+  - <Type>k__BackingField: 2
+    <Amount>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 4616518037359692065, guid: 301f264c8bb1a0e4f84a9bef1218af5b, type: 3}
+  - <Type>k__BackingField: 3
+    <Amount>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 1040338350915340, guid: 3c2b50018c6143e44b2498ec32f85343, type: 3}
+  - <Type>k__BackingField: 4
+    <Amount>k__BackingField: 3
+    <Prefab>k__BackingField: {fileID: -6538433097941193983, guid: 2f87a77bea1affc40bb19de5ded3f79a, type: 3}
+  - <Type>k__BackingField: 5
+    <Amount>k__BackingField: 4
+    <Prefab>k__BackingField: {fileID: 8451540958074654725, guid: 926dbce1d551de64892b8cc7b5d15c65, type: 3}
+  - <Type>k__BackingField: 6
+    <Amount>k__BackingField: 4
+    <Prefab>k__BackingField: {fileID: 5868481465790322492, guid: 19fdbeb78834ef5409f39a15e715e9a4, type: 3}
+  - <Type>k__BackingField: 7
+    <Amount>k__BackingField: 4
+    <Prefab>k__BackingField: {fileID: 8580280561813660069, guid: accca975cf41ac14088a19cb04073783, type: 3}
+  - <Type>k__BackingField: 8
+    <Amount>k__BackingField: 3
+    <Prefab>k__BackingField: {fileID: 3289211595235844562, guid: 10b54b75e9d50e44ba7895d9d348ab7a, type: 3}
+  - <Type>k__BackingField: 9
+    <Amount>k__BackingField: 4
+    <Prefab>k__BackingField: {fileID: 7661371725230169772, guid: 9d328033daf2b1a458ddaea1d5ebd7dd, type: 3}
+  _star:
+    <Type>k__BackingField: 0
+    <Amount>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 3963001793039455083, guid: 4a13df6092937c640badf59eaf470383, type: 3}
+  _massiveDecorations: 010000000200000003000000
