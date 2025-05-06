@@ -1,0 +1,23 @@
+{
+    "name": "ChristmasTree",
+    "rootNamespace": "ChristmasTree",
+    "references": [
+        "GUID:d528c8c98d269ca44a06cd9624a03945",
+        "GUID:b93f844d45cfcc44fa2b0eed5c9ec6bb",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:c134822a8adcedb468c97126445ae692",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:b0c51fc6591fd0d4987bb50d55cf5714"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
